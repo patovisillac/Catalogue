@@ -1,0 +1,548 @@
+//#region 1
+
+"13 Going on 30", true
+"American Beauty",true
+"Black Swan", true
+"Coda", true
+"Dead Poets Society", true
+"Falling in Love",true
+"Heartburn",true
+"How to Steal a Million", true
+"It's a Wonderful Life",true
+"Kung Pow", true
+"Little Women", true
+"Mean Girls", true
+"Misery", true
+"Mommy",true
+"Pirates of the Caribbean", true
+"Portrait of a Lady on Fire", true
+"Sabrina",true
+"Serendipity",true
+"Sherlock Jr",true
+"Sleepless in Seattle", true
+"Sound of Metal", true
+"Speak",true
+"Still Alice",true
+"Suspiria", true
+"The Bridges of Madison County",true
+"The Fifth Element",true
+"Vertigo",true
+"When a Man Loves a Woman", true
+"When Harry Met Sally", true 
+"You Got Mail", true
+
+//#endregion 1
+
+//#region 2
+
+"Amelie", true
+"Cleo from 5 to 7", true
+"Cinema Paradiso",true
+"Ivan's Childhood", false
+"La Vita e Bella",true
+"Mauvais Sang", true
+"Mirror", false
+"Solaris",false
+"Stalker",true
+"The Double Life of Veronique", true
+"The Cranes Are Flying",false
+"The Quiet Girl", true
+"Three Colours: Blue",true
+"Three Colours: Red", true
+"Three Colours: White", false
+
+//#endregion 2
+
+//#region 3
+
+"Cria Cuervos", true
+"El Secreto de sus Ojos", true
+"Mujeres al Borde de un Ataque de Nervios", true
+"Nueve Reinas", true
+"Relatos Salvajes", true
+"Roma", false
+"Todo Sobre mi Madre",false
+"Volver", false
+
+//#endregion 3
+
+//#region 4
+
+"Dersu Uzala",false
+"Dreams", true
+"Harakiri", true
+"High and Low", true
+"Hidden Fortress",false
+"Ikiru",true
+"Ran",false
+"Rashomon", true
+"Red Beard",false
+"Sanjuro",false
+"Sansho The Bailif",false
+"Seven Samurai",true
+"Throne of Blood",false
+"Tokyo Story",true
+"Yojimbo",false
+
+//#endregion 4
+
+//#region 5
+
+"Bottle Rocket",true
+"Fantastic Mr Fox", true
+"Isle of Dogs", true
+"Moonrise Kingdom", true
+"Rushmore", true
+"The Darjeeling Limited", true
+"The Grand Budapest Hotel", true
+"The Life Aquatic with Steve Zissou", true
+"The Royal Tenenbaums", true
+
+//#endregion 5n
+
+//#region 6
+
+"A Silent Voice", true
+"Akira",true
+"Castle in the Sky",true
+"Erased", true
+"From up on Poppy Hill",true
+"Grave of the Fireflies", true
+"Howl's Moving Castle", true
+"In This Corner of the World",false
+"Kids on the Slope",true
+"Kiki Delivery Service",true
+"Liz and the Blue Bird",true
+"My Neighbor Totoro", true
+"Nausicaä of the Valley of the Wind", true
+"Only Yesterday", true
+"Penguin Highway",true
+"Perfect Blue", true
+"Ponyo",true
+"Porco Rosso",true
+"Princess Mononoke",true
+"Ride Your Wave", true
+"Spirited Away",true
+"The Garden of Words",true
+"The Night is Short Walk on Girl",true
+"The Secret World of Arriety",true
+"The Tale of Princess Kaguya",true
+"The Wind Rises", true
+"Whisper of the Heart", true
+"Wolf Children",false
+"Your Name",true
+
+//#endregion 6
+
+//#region 7
+
+"2001: A Space Odyssey",true
+"A Clockwork Orange", true
+"Dr. Strangelove",true
+"Eyes Wide Shut", true
+"Full Metal Jacket",true
+"Paths of Glory", true
+"The Shining",true
+
+//#endregion 7
+
+//#region 8
+
+"12 Angry Men", true
+"500 Days of Summer", truea
+"A Ghost Story",true
+"Aftersun", true
+"Annie Hall", true
+"Before Sunrise", true
+"Before Sunset",true
+"Big Fish", true
+"Birdman",true
+"Blade Runner", true
+"Capernaum",true
+"Contact",true
+"Cook Thief Wife Lover",false
+"Dances with Wolves", true
+"Do The Right Thing", true
+"Dog Day Afternoon",true
+"Edward Scissorhands",true
+"Eternal Sunshine Spotless Mind", true
+"Everything Everywhere all at Once",true
+"Ex Machina", true
+"Girl Interrupted", true
+"Good Bye Lenin!",true
+"Her",true
+"Hope Gap", true
+"I'm Thinking of Ending Things",true
+"Jesus Christ Superstar", true
+"Kramer vs. Kramer",true
+"La La Land", true
+"Like Father Like Son", true
+"Lost in Translation",true
+"Marcel the Shell with Shoes On", true
+"Midnight in Paris",true
+"Mulholland Drive", true
+"Once", true
+"On Golden Pond", true
+"One Fine Day", true
+"Ordinary People",true
+"Out of Africa",true
+"Paris Texas",true
+"Philadelphia", true
+"Princess Bride", true
+"Pulp Fiction", true
+"Shoplifters",true
+"Speed Racer",true
+"Spiderman 1",true
+"Spiderman 2",true
+"Spiderman 3",true
+"Sunflower",true
+"The Banshees of Inisherin",true
+"The Belly of an Architect",false
+"The Dark Knight",true
+"The English Patient",true
+"The Fabelmans",true
+"The Father", true
+"The Florida Project",true
+"The Good Will Hunting",true
+"The Hunt", true
+"The Passion of the Christ",false
+"The Pianist",true
+"The Sound of Music", true
+"The Squid and the Whale",true
+
+//#endregion 8
+
+//#region 9
+
+"About Schmidt",true
+"Almost Famous",true
+"At Eternity's Gate", true
+"Brokeback Mountain", true
+"City of God",true
+"Donnie Darko", true
+"Duel", true
+"Eight Grade",true
+"Gone Girl",true
+"Gravity",true
+"Happy Go Lucky", true
+"Il Sorpasso",true
+"Into the Wild",true
+"Juno", true
+"Lady Bird",true
+"Late Spring",true
+"Million Dollar Baby",true
+"Mistress America", true
+"Not Another Teen Movie", true
+"One Flew Over the Cuckoo's Nest",true
+"Psycho", true
+"Rocky",true
+"Roman Holiday",true
+"Singin' in the Rain",true
+"Short Term 12",true
+"Still Walking",true
+"Stop Making Sense",true
+"Swing Girls",true
+"Submarine",true
+"The Devil Wears Prada",true
+"The Good, The Bad and The Ugly", true
+"The Kid",true
+"The Lives of Others",true
+"The Night of the Hunter",true
+"The Notebook", true
+"The Passion of Joan of Arc", true
+"The Way Way Back", true
+"This is Spinal Tap", true
+"Yi Yi",true
+
+//#endregion 9
+
+//#region 10
+
+"Arrival", true
+"Beginners", true
+"Blade Runner 2049", true
+"Close Encounters of the Third Kind",true
+"Ed Wood", true
+"Gattaca", true
+"Incendies", true
+"Juan Salvador Gaviota", false
+"Jurassic Park", true
+"Maudie",true
+"Metropolis",true
+"Minority Report", true
+"Narnia",true
+"Nights of Cabiria", true
+"No Country for Old Men",true
+"Our Little Sister", true
+"Paper Moon",true
+"Perfect Days",true
+"Pride & Prejudice", true
+"Requiem for a Dream", true
+"Saving Private Ryan", true
+"Scarface",true
+"Scent of a Woman",true
+"School of Rock",true
+"Star Wars: Episode IV", true
+"The Elephant Man",true
+"The Truman Show", true
+"There Will Be Blood", true
+
+//#endregion 10
+
+//#region 11
+
+"After Life",true
+"Artificial Intelligence", true
+"Baby Driver", true
+"Begin Again", true
+"Bicycle Thieves", true
+"Billy Elliot",true
+"Bridge to Terabithia",true
+"Dream Scenario",true
+"Double Indemnity",true
+"El Robo del Siglo", true
+"Ferris Bueller's Day Off",true
+"Flipped", true
+"Gone with the Wind",true
+"Goodfellas",true
+"Indiana Jones", true
+"La Odisea de los Giles",true
+"La Strada", true
+"Lethal Weapon", true
+"Little Miss Sunshine",true
+"Matilda", true
+"Napoleon Dynamite", true
+"Ocho Apellidos Vascos", true
+"Schindler's List",true
+"Star Wars: Episode V",true
+"Sunset Boulevard",true
+"The Cabinet of Dr. Caligari", true
+"The Matrix",true
+"The Silence of the Lambs",true
+"Thelma & Louise", true
+
+//#endregion 11
+
+//#region 12
+
+"A Few Good Men",true
+"Adaptation",true
+"Amadeus", true
+"Back to the Future",true
+"Being John Malkovich",true
+"Blue Jasmine",true
+"Breakfast At Tiffany's",true
+"Catch Me If You Can", true
+"C'Erevamo Tanto Amati", true
+"Deserto Rosso", true
+"Ford v Ferrari",true
+"Gladiator", true
+"House", true
+"In The Name Of The Father", true
+"Jojo Rabbit", true
+"Leon",true
+"Little Manhattan",true
+"Medianeras",true
+"Nosferatu", true
+"Over the Garden Wall",true
+"Pink Floyd: The Wall",true
+"Pirates of the Caribbean 2",true
+"Rear Window", true
+"Taxi Driver", true
+"The Holdovers", true
+"The Neverending Story", true
+"The Secret Garden", true
+"This is England", true
+"Trainspotting", true
+"Twin Peaks",false
+"Vanilla Sky", true
+"Witness for the Prosecution", true
+
+//#endregion 12
+
+//#region 13
+
+"101 Dalmatians",true
+"9", false
+"Acceleracers 1: Ignition",true
+"Acceleracers 2: Speed of Silence",true
+"Acceleracers 3: Breaking Point",true
+"Acceleracers 4: The Ultimate Race", true
+"Aladdin", true
+"Alice in Wonderland", true
+"Bambi", true
+"Beauty and The Beast",true
+"Bella Donna of Sadness",false
+"Big Hero 6",true
+"Brave", true
+"Cars",true
+"Castle Of Cagliostro",true
+"Chicken Little",true
+"Cinderella",true
+"Cloudy with a Chance of Meatballs", true
+"Coraline",true
+"Corpse Bride",false
+"Dinosaur",true
+"Dumbo", true
+"Fantasia",true
+"Fantastic Planet",true
+"Finding Nemo",true
+"Flow",true
+"Frozen",true
+"Hercules",true
+"Hoodwinked",true
+"How to Train your Dragon",true
+"How to Train your Dragon 2",true
+"How to Train your Dragon 3",true
+"Ice Age", true
+"Inside Out",true
+"Kung Fu Panda", true
+"Kung Fu Panda 2", true
+"La Tortue Rouge", true
+"Le Petit Prince", true
+"Lilo & Stitch", true
+"Lupin III", true
+"Mary Poppins",true
+"Monsters Inc",true
+"Persepolis",true
+"Pinocchio", true
+"Prince of Egypt", true
+"Puss in Boots", true
+"Ratatouille", true
+"Robin Hood",true
+"Robot Dreams",true
+"Sharktale", true
+"Shrek", true
+"Shrek 2", true
+"Sleeping Beauty", true
+"Snow White",true
+"Spiderman: Into the Spiderverse", true
+"Spiderman: Across the Spiderverse", true
+"Surf's Up", true
+"Tangled", true
+"Tarzan",true
+"Teenage Mutant Ninja Turtles",true
+"The Fox and the Hound", true
+"The Incredibles", true
+"The Lion King", true
+"The Little Mermaid",true
+"The Mitchells vs the Machines", true
+"The Plague Dogs", false
+"The Wizard of Oz",true
+"Toy Story", true
+"Treasure Planet", false
+"Up",true
+"Wall-E",true
+"Wallace & Gromit",true
+"Yellow Submarine",true
+
+//#endregion 13
+
+//#region 14
+
+"American History X",true
+"Asteroid City", true
+"City Lights", true
+"Charade", true
+"Chungking Express", true
+"Dial M For Murder", true
+"Die Hard",true
+"Downfall",true
+"Dune",true
+"Dune 2",true
+"E.T. the Extra Terrestrial",true
+"Empire of the Sun", true
+"Faces Places",true
+"Fargo", true
+"Frances Ha",true
+"La Haine",true
+"La Sociedad de la Nieve", true
+"Little Women 1994", true
+"Madonna Confessions", true
+"Mamma Mia", true
+"Marriage Story",true
+"Memories of Murder",true
+"Midnight Cowboy", true
+"Minding The Gap", true
+"Modern Times",true
+"Navalny", true
+"Notting Hill",true
+"North by Northwest",true
+"Otto e Mezzo",true
+"Phantom of Paradise", true
+"Saturday Night Fever",true
+"Skyfall", true
+"Spirited Away Live On Stage", true
+"Stand By Me", true
+"Terms of Endearment", true
+"The Fault in our Stars",true
+"The Lord of the Rings", true
+"The Phantom of the Opera",true
+"Una Giornata Particolare",true
+"White Oleander",true
+
+//#endregion 14
+
+//#region 15
+
+"And Life Goes On",false
+"Get Out", false
+"Good Morning",false
+"Les Glaneurs et la Glaneuse", false
+"Les Plages d'Agnes",false
+"M 1931",false
+"Millenium Actress", false
+"Mysterious Skin", false
+"Tenacious D", false
+"The Butterfly Effect",false
+"The Imitation Game",false
+"The Red Shoes", false
+"The Usual Suspects",false
+"Three Women", false
+"Un Long Dimanche de Fiançailles", false
+"Whiplash",false
+"21 Grams",false
+"A Room with a View",false
+"All About Eve", false
+"Amarcord",false
+"An Autumn Afternoon", false
+"Anatomy of a Murder", false
+"Blue Velvet", false
+"Central do Brasil", false
+"Children of Heaven",false
+"Chinatown", false
+"Close Up",false
+"Cold War",false
+"Crazy Stupid Love", true
+"Decision to Leave", false
+"District 9",false
+"Dragonball Evolution",false
+"Drive", false
+"Fight Club",false
+"Fire Walk with Me", false
+"Hiroshima Mon Amour", false
+"It Happened One Night", false
+"Les Demoiselles de Rochefort",false
+"Love Streams",false
+"Maborosi",false
+"Magnolia",false
+"Memento", false
+"Moulin Rouge",false
+"My Dinner with Andre",true
+"On The Silver Globe", false
+"Rain Man",false
+"Safety Last", false
+"Scooby Doo",false
+"The 400 Blows", false
+"The Apartment", true
+"The Childrens Hour",true
+"The Hole",false
+"The Last Airbender",false
+"The Long Goodbye",false
+"The Room",false
+"The Shop Around the Corner",false
+"The Seventh Seal",false
+"The Whispering Star", false
+"Two for the Road",false
+"Where is the Friend's House", true
+"Wings Of Desire", false

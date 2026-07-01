@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#14181c" />
+  <title>DVD Catalogue</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="controls">
+      <div class="search-wrap">
+        <input id="search" type="search" inputmode="search" placeholder="Search by title…" autocomplete="off" />
+      </div>
+
+      <div class="filter-row">
+        <select id="genre" class="chip-select" aria-label="Genre"></select>
+
+        <div class="segmented" id="seen-seg" role="group" aria-label="Watched status">
+          <button type="button" data-val="" class="active">All</button>
+          <button type="button" data-val="seen">Seen</button>
+          <button type="button" data-val="unseen">Unseen</button>
+        </div>
+
+        <button type="button" id="filter-fav" class="chip-toggle" aria-pressed="false" title="Show favorites">♥ Favorites</button>
+        <button type="button" id="filter-rewatch" class="chip-toggle" aria-pressed="false" title="Show rewatch list">↻ Rewatch</button>
+
+        <button id="reset" class="icon-btn" type="button" aria-label="Clear filters" title="Clear filters">
+          <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+            <path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/>
+          </svg>
+        </button>
+      </div>
+
+      <div class="range" id="range">
+        <div class="range-head">
+          <span class="range-title">Duration</span>
+          <span id="dur-label" class="range-label">Any</span>
+        </div>
+        <div class="range-slider">
+          <div class="range-track"></div>
+          <div class="range-fill" id="dur-fill"></div>
+          <input type="range" id="dur-min" aria-label="Minimum duration" />
+          <input type="range" id="dur-max" aria-label="Maximum duration" />
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <p id="count" class="count"></p>
+    <section id="grid" class="grid" aria-live="polite"></section>
+    <p id="empty" class="empty" hidden>No movies match.</p>
+  </main>
+
+  <!-- Detail modal -->
+  <div id="modal" class="modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="m-title">
+      <button class="modal-close" data-close aria-label="Close">✕</button>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
